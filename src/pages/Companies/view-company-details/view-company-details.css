@@ -1,0 +1,18 @@
+  .view-heading {
+    color: #000000;
+    margin-top: 5%;
+    margin-left: -35%;
+}
+.view-company-card{
+    width: 70vw;
+    height: 70vh;
+    margin-left: 20%;
+    margin-top: 2%;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.view-link {
+    margin-left: 68.5%;
+    text-decoration: none;
+    color: #003187;
+}
